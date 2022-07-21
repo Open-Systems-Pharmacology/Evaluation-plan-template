@@ -1,4 +1,4 @@
-### 2.2.1	In vitro / physico-chemical Data <a id="invitro-and-physico-chemical-data"></a>
+### In vitro / physico-chemical Data <a id="invitro-and-physico-chemical-data"></a>
 
 A literature search was performed to collect available information on physicochemical properties of dapagliflozin. The obtained information from literature is summarized in the table below. 
 
@@ -12,11 +12,11 @@ A literature search was performed to collect available information on physicoche
 | B/P ratio       |          |           | [Dummy YEAR](#main-references)                | Blood to plasma ratio                           |
 | ...             |          |           |                                            | ....                                            |
 
-### 2.2.2	Clinical Data  <a id="clinical-data"></a>
+### Clinical Data  <a id="clinical-data"></a>
 
 A literature search was performed to collect available clinical data on dapagliflozin in healthy adults.
 
-#### 2.2.2.1	Model Building <a id="model-building"></a>
+#### Model Building <a id="model-building"></a>
 
 The following studies were used for model building (training data):
 
@@ -27,7 +27,7 @@ The following studies were used for model building (training data):
 | ...                         | ...                                                   |
 | ...                         | ...                                                   |
 
-#### 2.2.2.2	Model Verification <a id="model-verification"></a>
+#### Model Verification <a id="model-verification"></a>
 
 The following studies were used for model verification:
 

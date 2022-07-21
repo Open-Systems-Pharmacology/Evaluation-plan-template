@@ -183,13 +183,13 @@
             "Project": "Compound",
             "Name": "COMPOUND",
             "Type": "Compound",
-            "SectionReference": "final-input-parameters"
+            "SectionId": 0
         },
         {
             "Project": "Compound",
             "Name": "Tablet",
             "Type": "Formulation",
-            "SectionReference": "final-input-parameters"
+            "SectionId": 0
         }
     ],
     "Sections": [
@@ -225,7 +225,7 @@
             "Content": "Content/Section3_Results_and_Discussion.md",
             "Sections": [
                 {
-                    "Reference": "final-input-parameters",
+                    "Id": 0,
                     "Title": "Final input parameters",
                     "Content": "Content/Input_table.md"
                 },
