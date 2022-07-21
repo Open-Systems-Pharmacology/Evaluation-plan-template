@@ -2,10 +2,8 @@ name: Check Markdown links
 
 on: 
   push:
-    branches-ignore:
-      - master
-      - main
-      - develop
+    branches:
+      - review
  
 jobs:
   markdown-link-check:
