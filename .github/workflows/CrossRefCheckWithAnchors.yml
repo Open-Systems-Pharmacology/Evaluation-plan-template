@@ -1,4 +1,4 @@
-name: XRefCheck
+name: CrossRefCheck with Anchors
 
 on: 
   push:
