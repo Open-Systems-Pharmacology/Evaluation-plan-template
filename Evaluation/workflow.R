@@ -14,3 +14,12 @@
 # source("workflow.R", encoding="UTF-8")
 # createQualificationReport(...)
 
+# All qualification workflow settings, which are specific for 
+#   a. the installation of the OSP Suite or the qualification framework 
+#   b. the computing environment where the workflow is being executed
+# must be always passed as arguments to the createQualificationReport function and may never be defined in the function body
+ 
+# The rule of thumb is:
+#   Execution of the createQualificationReport function should produce qualification report on any computer 
+#   where all mandatory software components of the qualification framework are installed without any modifications of the function body. 
+
