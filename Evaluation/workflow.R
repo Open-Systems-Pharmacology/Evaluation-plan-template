@@ -4,7 +4,10 @@
 #
 #    system.file("extdata", package = "ospsuite.reportingengine")
 #
-# 2. Replace the content of this file with the content of the template qualification-workflow-template.R and adjust it after that if required
+#    Alternatively, you will find the template in the online documentation of the reporting engine:
+#    https://www.open-systems-pharmacology.org/OSPSuite.ReportingEngine/articles/qualification-workflow.html#template
+#
+# 2. Replace the content of this file with the content of the template and adjust the code after that if required (s. the inline comments in the template code)
 # 
 # 3. Create a qualification report in R via the commands below:
 #
